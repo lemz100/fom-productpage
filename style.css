@@ -149,3 +149,10 @@ button:active {
         min-height: 100%;
     }
 }
+
+@media (min-width: 1440px) {
+    .card {
+        min-width: 48rem;
+        font-size: 120%;
+    }
+}
